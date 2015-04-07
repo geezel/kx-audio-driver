@@ -4,42 +4,42 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>10kx driver.xcscheme</key>
+		<key>10kx driver.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>7</integer>
 		</dict>
-		<key>FloatLib.xcscheme</key>
+		<key>FloatLib.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>edspctrl.xcscheme</key>
+		<key>edspctrl.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
-		<key>kX AC97.xcscheme</key>
+		<key>kX AC97.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>6</integer>
 		</dict>
-		<key>kX Manager.xcscheme</key>
+		<key>kX Manager.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
-		<key>kXAPI.xcscheme</key>
+		<key>kXAPI.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
-		<key>kXAudioDriver.xcscheme</key>
+		<key>kXAudioDriver.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>kxctrl.xcscheme</key>
+		<key>kxctrl.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>3</integer>
