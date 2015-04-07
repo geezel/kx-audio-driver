@@ -25,8 +25,8 @@
 #else
  #define KX_VERSION_STR			"5, 10, 00, 3552"
 #endif
-#define KX_COPYRIGHT_STR		"Copyright © Eugene Gavrilov, 2001-2014. All rights reserved."
-#define KX_COPYRIGHT_STR_R		"Copyright © Eugene Gavrilov, 2001-2014."
+#define KX_COPYRIGHT_STR		"Copyright (c) Eugene Gavrilov, 2001-2014. All rights reserved."
+#define KX_COPYRIGHT_STR_R		"Copyright (c) Eugene Gavrilov, 2001-2014."
 #define KX_COPYRIGHT_YEARS		"2001-2014"
 #define KX_COMPANY_NAME			"Eugene Gavrilov"
 
