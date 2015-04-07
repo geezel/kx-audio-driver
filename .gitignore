@@ -1,11 +1,6 @@
 
 *.xcuserstate
 
-
-
-*.xcscheme
-
-macosx/10kx driver.xcodeproj/xcuserdata/egavrilov.xcuserdatad/xcschemes/xcschememanagement.plist
-
 macosx/build/*
+
 *.xccheckout
